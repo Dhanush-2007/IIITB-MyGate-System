@@ -53,3 +53,18 @@ dkms.conf
 
 # debug information files
 *.dwo
+
+# Executable
+time
+
+# Runtime files
+activity.log
+
+# macOS
+.DS_Store
+
+# VS Code
+.vscode/
+
+# Object files
+*.o
